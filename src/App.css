@@ -10,6 +10,7 @@ body {
   font-family: "Oswald", sans-serif !important;
   background: whitesmoke !important;
   color:var(--mainDark) !important;
+
 }
 
 .text-title{
@@ -20,4 +21,23 @@ body {
 
 .text-blue {
   color: var(--mainBlue);
+}
+.btn-black{
+  background: transparent;
+  text-transform: capitalize;
+  font-size: 0.8rem !important;
+  color: var(--mainDark);
+  border-radius: 0 !important;
+  border: 0.2rem solid var(--mainDark) !important;
+}
+
+.btn-black:hover{
+  background: var(--mainDark)!important;
+  color: var(--mainWhite) !important;
+}
+
+.cart-icon{
+  cursor: pointer;
+  font-size: 1.2rem;
+  color: var(--mainYellow);
 }
