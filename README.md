@@ -1,7 +1,8 @@
 # Phone React E-commerce
 
+#Live Site
+[live URL](https://phone-store-e-commerce.netlify.app/)
 # view 
-
 
 ## mobile
 ![](./public/mobile-phone.gif)
@@ -12,6 +13,7 @@ Bootstrap
 CSS
 REACT
 Styled-Components
+Netlify
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
