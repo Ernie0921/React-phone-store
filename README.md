@@ -1,8 +1,7 @@
 # Phone React E-commerce
 
 # view 
-## desktop 
-![](./public/phone-store.gif)
+
 
 ## mobile
 ![](./public/mobile-phone.gif)
