@@ -7,6 +7,8 @@
 ## mobile
 ![](./public/mobile-phone.gif)
 
+## desktop
+![](./public/desktop.gif)
 
 #Technologies Used
 Bootstrap
@@ -15,6 +17,7 @@ REACT
 Styled-Components
 Netlify
 react-paypal-express-checkout
+
 
 # Getting Started with Create React App
 
