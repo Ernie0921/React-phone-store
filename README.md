@@ -5,7 +5,7 @@
 ![](./public/phone-store.gif)
 
 ## mobile
-![](./public/mobile-store.gif)
+![](./public/mobile-phone.gif)
 
 
 #Technologies Used
